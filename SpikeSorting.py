@@ -13,6 +13,7 @@ Created on Thu Mar 25 15:16:44 2021
 # import required modules
 import os
 import numpy as np
+import scipy as sci
 from readTrodesExtractedDataFile3 import *
 from sys import exit
 
